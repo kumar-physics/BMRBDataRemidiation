@@ -1,0 +1,2 @@
+# PyNMRSTAR
+git+git://github.com/uwbmrb/pynmrstar.git@v3
